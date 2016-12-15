@@ -1,0 +1,28 @@
+.tf {
+	-fx-alignment: center ;	
+	-fx-border-style: solid;
+	-fx-border-color: gray;
+	-fx-border-width: 1px;
+	-fx-background-color: #ada4a8;
+}
+
+
+.gp {
+	-fx-border-style: solid;
+	-fx-border-width: 2px;
+}
+
+
+.clear {
+	-fx-background-color: transparent;
+	-fx-border-color: #c1bdbf;
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+}
+
+.solve {
+	-fx-background-color: transparent;
+	-fx-border-color: #c1bdbf;
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+}
